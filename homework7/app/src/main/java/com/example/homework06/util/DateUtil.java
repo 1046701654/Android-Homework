@@ -1,6 +1,5 @@
 package com.example.homework06.util;
 
-
 import android.annotation.SuppressLint;
 import android.text.TextUtils;
 
